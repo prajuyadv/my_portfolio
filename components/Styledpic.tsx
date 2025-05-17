@@ -35,7 +35,7 @@ const StyledPic: React.FC = () => {
         transition={{ duration: 0.5 }}
       >
         <Image
-          src="/pics/praju.JPG"
+          src="/pics/praju.png"
           alt="praju"
           fill
           className="object-cover rounded-full"

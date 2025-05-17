@@ -18,17 +18,17 @@ const StickyIcons: React.FC = () => {
   const socialLinks: IconLinkProps[] = [
     {
       icon: FaGithub,
-      href: "https://github.com/Avanaganti-Saichand",
+      href: " https://github.com/prajuyadv",
       label: "GitHub",
     },
     {
       icon: FaLinkedin,
-      href: "https://www.linkedin.com/in/saichand-avanaganti-1b51401a4/",
+      href: "https://www.linkedin.com/in/praju-kumar-yadav-patnam-63899b1b7/",
       label: "LinkedIn",
     },
     {
       icon: FaInstagram,
-      href: "https://www.instagram.com/saichand_avanaganti/",
+      href: "https://www.instagram.com/prajuyadav_/",
       label: "Instagram",
     },
   ];

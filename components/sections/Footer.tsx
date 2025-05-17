@@ -60,7 +60,7 @@ const Footer: React.FC = () => {
         >
           <p className="text-lg font-mono">
             Designed & Built by{" "}
-            <span className="text-primary font-bold">Saichand Avanaganti</span>{" "}
+            <span className="text-primary font-bold">Praju Kumar Yadav patnam</span>{" "}
           </p>
           <p className="mt-2 text-sm">
             Fueled by innovation, code, and strong black coffee.

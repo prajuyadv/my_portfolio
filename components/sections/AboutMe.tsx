@@ -10,6 +10,7 @@ import {
   FaUtensils,
   FaHiking,
   FaPuzzlePiece,
+  FaReadme,
 } from "react-icons/fa";
 import { useScrollSection } from "@/hooks/use-scroll-section";
 
@@ -50,16 +51,15 @@ const AboutMe: React.FC = () => {
             </p>
             <p>
               I&rsquo;ve worked with teams at Tru Equations and Capgemini IT
-              Services and currently pursuing my Master&rsquo;s in Information
-              Systems at Saint Louis University. Whether it&rsquo;s deploying
+              Services and recently completed my Master&rsquo;s in Computer
+              Science at Auburn  University at Montgomery. Whether it&rsquo;s deploying
               APIs or animating UI transitions, I enjoy turning ideas into
               clean, functional code.
             </p>
             <p>When I&rsquo;m not coding, you&rsquo;ll probably find me:</p>
             <ul className="list-disc pl-5 space-y-2">
               <li>
-                <FaUtensils className="inline-block mr-2" /> Perfecting my
-                biryani recipe (spicy enough to wake the neighbors)
+                <FaReadme className="inline-block mr-2" /> Reading a captivating book that completely draws me in and leaves me stunned by its impact.
               </li>
               <li>
                 <FaHiking className="inline-block mr-2" /> Exploring new trails
