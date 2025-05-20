@@ -43,7 +43,7 @@ const AboutMe: React.FC = () => {
               (but we always patch things up).
             </p>
             <p>
-              With 4+ years of experience building cross-platform apps and
+              With 5+ years of experience building cross-platform apps and
               scalable backend systems, I&rsquo;ve crafted everything from
               real-time chat apps to geofence-based attendance trackers. I love
               building apps that are fast, user-friendly, and can survive a

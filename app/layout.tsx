@@ -50,17 +50,18 @@ export default function RootLayout({
           rel="icon"
           type="image/png"
           sizes="32x32"
-          href="./favicon-32x32.png"
+          // href="./favicon-32x32.png"
+          href="./praju.png"
         />
         <meta property="og:title" content="Praju Kumar Yadav Patnam's Portfolio" />
         <meta
           property="og:description"
           content="Mobile and Full-Stack Developer building high-quality cross-platform apps using React Native, Node.js, and TypeScript."
         />
-        <meta property="og:url" content="https://avanasaichand.dev" />
+        <meta property="og:url" content="https://praju.dev" />
         <meta
           property="og:image"
-          content="https://avanasaichand.dev/pics/portfolio_preview.png"
+          content="https://praju.dev/pics/portfolio_preview.png"
         />
         <meta property="og:type" content="website" />
       </head>
