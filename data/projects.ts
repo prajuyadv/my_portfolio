@@ -96,7 +96,7 @@ export const projects: Project[] = [
     description:
       "An E-commerce mobile application I was part of it during my tenure in capgemini I used to fix UI bugs and handled state management and also used to test manually application",
     icon: FaReact,
-    technologies: ["Next.js", "React", "TailwindCSS", "EmailJS", "Vercel"],
+    technologies: ["React Native", "React", "TailwindCSS", "EmailJS", "Vercel"],
     githubLink:
       "",
     liveLink: "",
@@ -114,7 +114,7 @@ export const projects: Project[] = [
     icon: FaWarehouse,
     technologies: ["React", "Node.js", "ExcelJS", "CSV", "Tailwind"],
     githubLink: "https://github.com/prajuyadv/smarttech.git",
-    liveLink: "https://mrpdashboard-teamvibe.streamlit.app/",
+    liveLink: "https://smarttech-six.vercel.app/",
     skills: [
       { name: "Excel Automation" },
       { name: "Inventory Management" },
@@ -145,6 +145,7 @@ export const projects: Project[] = [
     icon: FaCar,
     technologies: ["React", "TypeScript", "Tailwind CSS", "Framer Motion"],
     githubLink: "https://github.com/prajuyadv/figmaApp.git",
+    liveLink: "https://figma-app-gamma.vercel.app/",
     skills: [
       { name: "Frontend Development" },
       { name: "Responsive Design" },

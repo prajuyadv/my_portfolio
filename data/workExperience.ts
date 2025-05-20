@@ -34,8 +34,8 @@ export const workExperiences: WorkExperience[] = [
     duration: "Aug 2023 – Present",
     year: 2023,
     description: [
-      "Building mobile apps and full-stack solutions that work as hard as you do.",
-      "Collaborated with early-stage founders to rapidly prototype and launch MVPs using React Native and Firebase.",
+      " We developed a Maintenance Management Application specifically for apartment communities to streamline the resolution of maintenance issues. The system supports two distinct logins: User, Staff /Admin.",
+      "Developed cross-platform mobile applications using React Native, integrating RESTful APIs, Firebase, AWS.",
       "Developed custom API integrations and admin panels to automate tasks, reduce manual overhead, and make teams say, 'Finally!'",
     ],
     skills: [
@@ -52,8 +52,7 @@ export const workExperiences: WorkExperience[] = [
     year: 2023,
     description: [
       " Led end-to-end mobile and web app development, ensuring seamless cross-platform performance for Android,iOS, and web applications.",
-      "Collaborated with cross-functional teams to define requirements, enhance UI/UX, and integrate new features, im-proving user engagement.",
-      "Enhanced UI/UX with animations and navigation optimizations that made scrolling almost therapeutic.",
+     " Utilized Redux for efficient state management in React applications, integrating Axios for streamlined API  calls, which improved data flow and maintainability. Collaborated with cross-functional teams to define requirements, enhance UI/UX, and integrate new features, im- proving user engagement.",
       "Refactored core modules to improve performance and scalability — and made the dev team breathe easier.",
     ],
     skills: [
@@ -66,11 +65,11 @@ export const workExperiences: WorkExperience[] = [
   {
     company: " Capgemini pvt. Ltd.",
     position: "Software Developer",
-    duration: "Feb 20121 – Aug 2023",
+    duration: "Feb 2021 – Aug 2023",
     year: 2021,
     description: [
       "Developed cross-platform apps and internal tools that helped clients cut operational delays by 35%.",
-      "Built and deployed Node.js backends integrated with PostgreSQL/MongoDB, turning scattered data into organized dashboards.",
+      " Managed CI/CD pipelines for seamless deployment using AWS, Firebase Hosting, and Netlify and Agile sprints.",
       "Maintained and scaled codebases like a plant parent — always nurturing, pruning, and occasionally debugging at 2 AM.",
       "Worked in agile teams delivering multiple B2B and B2C solutions from scratch to production.",
     ],
