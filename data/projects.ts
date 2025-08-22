@@ -153,4 +153,20 @@ export const projects: Project[] = [
       { name: "Animation & UX" },
     ],
   },
+  {
+    id: 7,
+    title: "Real-Estate website",
+    description:
+      "Designed a UI/UX  Real-Estate website  developed the project using React ensuring Responsiveness",
+    icon: FaCar,
+    technologies: ["React", "TypeScript", "Tailwind CSS", "Framer Motion"],
+    githubLink: "https://github.com/prajuyadv/realEstate.git",
+    liveLink: "",
+    skills: [
+      { name: "Frontend Development" },
+      { name: "Responsive Design" },
+      { name: "Landing Page Clone" },
+      { name: "Animation & UX" },
+    ],
+  },
 ];

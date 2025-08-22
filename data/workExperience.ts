@@ -29,12 +29,12 @@ export interface WorkExperience {
 
 export const workExperiences: WorkExperience[] = [
   {
-    company: "Freelance Projects",
-    position: "Freelance Software Developer",
-    duration: "Aug 2023 – Present",
-    year: 2023,
+    company: "Brainvire Infotech Inc",
+    position: "FullStack Developer",
+    duration: "Aug 2024 – Present",
+    year: 2024,
     description: [
-      " We developed a Maintenance Management Application specifically for apartment communities to streamline the resolution of maintenance issues. The system supports two distinct logins: User, Staff /Admin.",
+      " Designed and developed a cross-platform e-commerce solution by building Android applications with Kotlin and responsive web interfaces with Angular & TypeScript, enabling seamless multi-device shopping experiences.",
       "Developed cross-platform mobile applications using React Native, integrating RESTful APIs, Firebase, AWS.",
       "Developed custom API integrations and admin panels to automate tasks, reduce manual overhead, and make teams say, 'Finally!'",
     ],
@@ -45,28 +45,11 @@ export const workExperiences: WorkExperience[] = [
     ],
     logo: "/logos/freelance.png",
   },
-  {
-    company: "Tru Equations",
-    position: "Mobile App Developer",
-    duration: "March 2023 – July 2023",
-    year: 2023,
-    description: [
-      " Led end-to-end mobile and web app development, ensuring seamless cross-platform performance for Android,iOS, and web applications.",
-     " Utilized Redux for efficient state management in React applications, integrating Axios for streamlined API  calls, which improved data flow and maintainability. Collaborated with cross-functional teams to define requirements, enhance UI/UX, and integrate new features, im- proving user engagement.",
-      "Refactored core modules to improve performance and scalability — and made the dev team breathe easier.",
-    ],
-    skills: [
-      { name: "React Native", icon: FaReact },
-      { name: "Node.js", icon: FaNodeJs },
-      { name: "Firebase", icon: SiFirebase },
-    ],
-    logo: "/logos/real-variable.jpeg",
-  },
-  {
+   {
     company: " Capgemini pvt. Ltd.",
     position: "Software Developer",
-    duration: "Feb 2021 – Aug 2023",
-    year: 2021,
+    duration: "March 2020 – July 2023",
+    year: 2020,
     description: [
       "Developed cross-platform apps and internal tools that helped clients cut operational delays by 35%.",
       " Managed CI/CD pipelines for seamless deployment using AWS, Firebase Hosting, and Netlify and Agile sprints.",
@@ -77,22 +60,6 @@ export const workExperiences: WorkExperience[] = [
       { name: "Node.js", icon: FaNodeJs },
       { name: "PostgreSQL", icon: SiPostgresql },
       { name: "MongoDB", icon: SiMongodb },
-    ],
-    logo: "/logos/freelance.png",
-  },
-  {
-    company: "Cvcorp",
-    position: "Software Intern",
-    duration: "May 2019 – Aug 2021",
-    year: 2019,
-    description: [
-      " Designed and developed responsive web pages using React, enhancing user engagement and accessibility.",
-      " Worked on API integrations for real-time data handling, improving application functionality and performance.",
-      " Assisted in quality assurance by conducting performance and functional testing before deployment.",
-    ],
-    skills: [
-      { name: "React Native", icon: FaReact },
-      { name: "UI Debugging", icon: FaLaptopCode },
     ],
     logo: "/logos/freelance.png",
   },

@@ -18,7 +18,7 @@ const Footer: React.FC = () => {
     { icon: FaGithub, href: "https://github.com/prajuyadv" },
     {
       icon: FaLinkedin,
-      href: "https://www.linkedin.com/in/praju-kumar-yadav-patnam-63899b1b7/",
+      href: "https://www.linkedin.com/in/praju-kumar-63899b1b7/",
     },
     {
       icon: FaInstagram,

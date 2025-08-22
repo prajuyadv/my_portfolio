@@ -38,19 +38,19 @@ const AboutMe: React.FC = () => {
           <CardContent className="text-sm sm:text-base text-foreground space-y-4">
             <p>
               Hey there 👋 I&rsquo;m <strong>Praju Kumar Yadav Patnam</strong> — a
-              Mobile &amp; Full Stack Developer who speaks fluent React Native,
+              Mobile &amp; Full Stack Developer who speaks fluent React Native, Flutter, Javascript
               negotiates with Node.js, and occasionally argues with TypeScript
               (but we always patch things up).
             </p>
             <p>
-              With 5+ years of experience building cross-platform apps and
+              With 4+ years of experience building cross-platform apps and
               scalable backend systems, I&rsquo;ve crafted everything from
               real-time chat apps to geofence-based attendance trackers. I love
               building apps that are fast, user-friendly, and can survive a
               production bug or two 😅.
             </p>
             <p>
-              I&rsquo;ve worked with teams at Tru Equations and Capgemini IT
+              I&rsquo;ve worked with teams at Brainvire Infotech Inc and Capgemini IT
               Services and recently completed my Master&rsquo;s in Computer
               Science at Auburn  University at Montgomery. Whether it&rsquo;s deploying
               APIs or animating UI transitions, I enjoy turning ideas into
