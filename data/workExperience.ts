@@ -48,7 +48,7 @@ export const workExperiences: WorkExperience[] = [
    {
     company: " Capgemini pvt. Ltd.",
     position: "Software Developer",
-    duration: "March 2020 – July 2023",
+    duration: "Oct 2019 – July 2023",
     year: 2020,
     description: [
       "Developed cross-platform apps and internal tools that helped clients cut operational delays by 35%.",

@@ -161,12 +161,29 @@ export const projects: Project[] = [
     icon: FaCar,
     technologies: ["React", "TypeScript", "Tailwind CSS", "Framer Motion"],
     githubLink: "https://github.com/prajuyadv/realEstate.git",
-    liveLink: "",
+    liveLink: "https://real-estate-hs6d.vercel.app/",
     skills: [
       { name: "Frontend Development" },
       { name: "Responsive Design" },
       { name: "Landing Page Clone" },
       { name: "Animation & UX" },
+    ],
+  },
+  {
+    id: 7,
+    title: "Movies App",
+    description:
+      "MoviesApp is a modern web application built using React 19 and Vite 6, designed to deliver a fast, responsive, and interactive movie-browsing experience.",
+    icon: FaCar,
+    technologies: ["React", "TypeScript", "Tailwind CSS", "Framer Motion"],
+    githubLink: "https://github.com/prajuyadv/movieApp.git",
+    liveLink: "https://movie-app-six-neon.vercel.app/",
+    skills: [
+      { name: "React 19, Vite 6, React Router 7" },
+      { name: "@react-icons/all-files, react-icons" },
+      { name: "Tailwind CSS / CSS Modules / Styled Components" },
+      { name: "ESLint, React Hooks plugin" },
+      { name: "TypeScript / JavaScript" },
     ],
   },
 ];
