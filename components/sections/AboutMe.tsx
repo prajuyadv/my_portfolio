@@ -38,12 +38,12 @@ const AboutMe: React.FC = () => {
           <CardContent className="text-sm sm:text-base text-foreground space-y-4">
             <p>
               Hey there 👋 I&rsquo;m <strong>Praju Kumar Yadav Patnam</strong> — a
-              Mobile &amp; Full Stack Developer who speaks fluent React Native, Flutter, Javascript
-              negotiates with Node.js, and occasionally argues with TypeScript
+              Mobile &amp; Full Stack Developer who speaks fluent Java, React.js, React Native, Flutter, Javascript
+              negotiates with Node.js,Spring Boot and occasionally argues with TypeScript
               (but we always patch things up).
             </p>
             <p>
-              With 5+ years of experience building cross-platform apps and
+              With 6+ years of experience building cross-platform apps and
               scalable backend systems, I&rsquo;ve crafted everything from
               real-time chat apps to geofence-based attendance trackers. I love
               building apps that are fast, user-friendly, and can survive a

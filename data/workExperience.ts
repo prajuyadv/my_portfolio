@@ -31,7 +31,7 @@ export const workExperiences: WorkExperience[] = [
   {
     company: "Brainvire Infotech Inc",
     position: "FullStack Developer",
-    duration: "Aug 2024 – Present",
+    duration: "Feb 2024 – Present",
     year: 2024,
     description: [
       " Designed and developed a cross-platform e-commerce solution by building Android applications with Kotlin and responsive web interfaces with Angular & TypeScript, enabling seamless multi-device shopping experiences.",
@@ -45,7 +45,21 @@ export const workExperiences: WorkExperience[] = [
     ],
     logo: "/logos/freelance.png",
   },
-   {
+  {
+    company: "DevLaunchers",
+    position: "Full Stack Developer (Volunteer)",
+    duration: "Jan 2024 – Present",
+    year: 2024,
+    description: [
+      "Designed and developed a modular user profile system using React, improving scalability and maintainability across components.",
+      "Built a complete Edit Profile experience (Bio, Skills, Interests, Details) with smooth and consistent user interactions.",
+      "Implemented global state management using Context API (Constate) to handle profile updates, change tracking, and save/discard functionality.",
+      "Integrated REST APIs using Axios for real-time data synchronization and optimized performance using React hooks to reduce unnecessary re-renders.",
+    ],
+    skills: [{ name: "React", icon: FaReact }],
+    logo: "/logos/devlaunchers.png",
+  },
+  {
     company: " Capgemini pvt. Ltd.",
     position: "Software Developer",
     duration: "Oct 2019 – July 2023",
