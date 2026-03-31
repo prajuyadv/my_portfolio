@@ -57,7 +57,7 @@ export const workExperiences: WorkExperience[] = [
       "Integrated REST APIs using Axios for real-time data synchronization and optimized performance using React hooks to reduce unnecessary re-renders.",
     ],
     skills: [{ name: "React", icon: FaReact }],
-    logo: "/logos/devlaunchers.png",
+    logo: "/logos/freelance.png",
   },
   {
     company: " Capgemini pvt. Ltd.",
