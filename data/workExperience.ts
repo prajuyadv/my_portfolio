@@ -45,21 +45,7 @@ export const workExperiences: WorkExperience[] = [
     ],
     logo: "/logos/freelance.png",
   },
-  {
-    company: "DevLaunchers",
-    position: "Full Stack Developer (Volunteer)",
-    duration: "Jan 2024 – Present",
-    year: 2024,
-    description: [
-      "Designed and developed a modular user profile system using React, improving scalability and maintainability across components.",
-      "Built a complete Edit Profile experience (Bio, Skills, Interests, Details) with smooth and consistent user interactions.",
-      "Implemented global state management using Context API (Constate) to handle profile updates, change tracking, and save/discard functionality.",
-      "Integrated REST APIs using Axios for real-time data synchronization and optimized performance using React hooks to reduce unnecessary re-renders.",
-    ],
-    skills: [{ name: "React", icon: FaReact }],
-    logo: "/logos/freelance.png",
-  },
-  {
+   {
     company: " Capgemini pvt. Ltd.",
     position: "Software Developer",
     duration: "Oct 2019 – July 2023",
@@ -77,4 +63,19 @@ export const workExperiences: WorkExperience[] = [
     ],
     logo: "/logos/freelance.png",
   },
+  {
+    company: "CV CORP",
+    position: "Software Intern ",
+    duration: "Feb 2019 – Oct 2019",
+    year: 2024,
+    description: [
+       "Developed and maintained cross-platform mobile applications using React Native, JavaScript, TypeScript, Java, and Kotlin, supporting production features and UI enhancements.",
+       "Built reusable UI components, custom hooks, utility functions, and native Android functionality using Android SDK, Jetpack, Activities, and Fragments.",
+       "Integrated REST APIs and Firebase services using Axios, handling authentication, JSON data, asynchronous operations, push notifications, and error handling.",
+       "Implemented state management using Redux, Redux Toolkit, Context API, and React Hooks, while performing testing, debugging, production support, and release validation using Jest, Android Studio, Xcode, Postman, Git, and GitHub."
+    ],
+    skills: [{ name: "React", icon: FaReact }],
+    logo: "/logos/freelance.png",
+  },
+ 
 ];
